@@ -7,5 +7,6 @@ Used dispersion trade method and Vega-neutral strategy to construct a portfolio 
 ## The Project Contains:
 • Obtained the option data from WRDS/Option Metrics (Black Scholes & Binomial tree) and calculated the VaR & Expected
 Shortfall of the portfolio using a 21-day horizon with Multivariate FHS approach.
+
 • Simulated default times and dealt with multivariate distributions of risk factors using copula functions (Random LGD).
 
